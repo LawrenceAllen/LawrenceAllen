@@ -20,7 +20,7 @@ Languages/Technologies I have used in the past
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 
 ## IDEs/Text Editors
-Commonly used nowadays
+Used nowadays
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
